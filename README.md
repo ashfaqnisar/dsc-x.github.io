@@ -1,4 +1,5 @@
 # Developer Student Clubs Directory
+
 <img src="https://raw.githubusercontent.com/dsc-x/about/master/images/project.png" width="100%">
 Version: 1.0
 
@@ -65,9 +66,32 @@ npm start
 - Pull requests _must_ be made against `dev` branch. Any other branch (unless specified by the maintainers) will get rejected.
 
 ## Contributors
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 <b>Maintainer:</b> [Anubhav Singh](https://github.com/xprilion) <br>
 <b>Developers:</b> [Anubhav Singh](https://github.com/xprilion) <br>
 <b>UI Mockup</b> [Samarth Nayyar](https://github.com/samarthdesigns)
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://xprilion.com"><img src="https://avatars1.githubusercontent.com/u/7047208?v=4" width="100px;" alt=""/><br /><sub><b>Anubhav Singh</b></sub></a><br /><a href="#projectManagement-xprilion" title="Project Management">📆</a> <a href="#ideas-xprilion" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/dsc-x/dsc-x.github.io/commits?author=xprilion" title="Code">💻</a> <a href="#maintenance-xprilion" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="http://samrthnayyar.me"><img src="https://avatars0.githubusercontent.com/u/25741135?v=4" width="100px;" alt=""/><br /><sub><b>Samarth Nayyar</b></sub></a><br /><a href="#design-samarthdesigns" title="Design">🎨</a></td>
+    <td align="center"><a href="https://sourcerer.io/ashfaqnisar"><img src="https://avatars0.githubusercontent.com/u/20638539?v=4" width="100px;" alt=""/><br /><sub><b>Ashfaq Nisar</b></sub></a><br /><a href="https://github.com/dsc-x/dsc-x.github.io/commits?author=ashfaqnisar" title="Code">💻</a></td>
+    <td align="center"><a href="http://linkedin.com/in/kavinraju/"><img src="https://avatars1.githubusercontent.com/u/24537737?v=4" width="100px;" alt=""/><br /><sub><b>Kavin Raju S</b></sub></a><br /><a href="https://github.com/dsc-x/dsc-x.github.io/commits?author=kavinraju" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome
 
 ## Facing Any Problem or need any Help?
 
